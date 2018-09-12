@@ -14,7 +14,7 @@ decorated_display()
 # ... is EQUIVALENT with ...
 
 @decorator_func # This is where the magic happens
- def display():
+def display():
      print('Display function executed ... \n')
 ```
 ### and ...
