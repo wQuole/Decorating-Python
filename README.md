@@ -5,7 +5,7 @@ Got inspired at [itDAGENE 2018](https://itdagene.no) when [Equinor](https://www.
 
 ### Some keynotes:
 ```python
- def display():
+def display():
     print('Display function executed ... \n')
 
 decorated_display = decorator_func(display)
