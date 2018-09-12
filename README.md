@@ -1,7 +1,7 @@
 # Decorating-Python
 Getting started with using decorators in Python 3.7 using this [quick guide](https://www.youtube.com/watch?v=kr0mpwqttM0&index=1&list=PLzTAO9z9xIreYGpvZpQqmE_z12ijDqFun)
 
-Got inspired at [itDAGENE 2018](https://itdagene.no) when [Equinor](https://equinor.no) held a short course on how to use Decorators in Python. 
+Got inspired at [itDAGENE 2018](https://itdagene.no) when [Equinor](https://www.equinor.com/no.html) held a short course on how to use Decorators in Python. 
 
 ### Some keynotes:
 ```python
@@ -17,7 +17,7 @@ decorated_display()
  def display():
      print('Display function executed ... \n')
 ```
-**and..**
+### and ...
 
 ```python
 @my_logger
